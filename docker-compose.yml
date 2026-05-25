@@ -1,7 +1,7 @@
-# Usage:
-#   docker compose run --build --rm jekyll bundle install      # resolve gems (writes Gemfile.lock)
+# Usage (gems are baked into the image, so no bundle install step is needed):
+#   docker compose build                                       # build the image (installs gems)
 #   docker compose up                                          # serve at http://localhost:4000/
-#   docker compose run --rm jekyll bundle exec jekyll build    # one-off static build into _site/
+#   docker compose run --rm jekyll bundle exec jekyll build    # static build into _site/
 services:
   jekyll:
     build: .
@@ -10,10 +10,6 @@ services:
       - "4000:4000"
     volumes:
       - .:/site
-      - gems:/usr/local/bundle
     environment:
       JEKYLL_ENV: development
-    command: sh -c "bundle check || bundle install && bundle exec jekyll serve --host 0.0.0.0 --livereload --force_polling"
-
-volumes:
-  gems:
+    command: bundle exec jekyll serve --host 0.0.0.0 --livereload --force_polling
