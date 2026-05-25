@@ -1,0 +1,38 @@
+# RogueMon rules site. Content is generated from README.md (single source of
+# truth); see BUILDING.md (added once the structure is finalized).
+title: RogueMon
+theme: just-the-docs
+
+# Firm requirement: dark by default.
+color_scheme: dark
+
+# Sidebar logo (the repo-root image).
+logo: "/RoguemonRBig.png"
+
+# Set per environment at build time, e.g.:
+#   --baseurl "" (root)   or via JEKYLL prod config.
+url: ""
+baseurl: ""
+
+# Just the Docs options
+search_enabled: true
+heading_anchors: true
+
+# Featured links: Play + Leaderboard pinned top-right on every page.
+aux_links:
+  "Play RogueMon": "https://crozwords.itch.io/roguemon"
+  "RogueMon Leaderboard": "https://www.roguemon.gg/"
+aux_links_new_tab: true
+
+# Featured links: Twitch / YouTube / Discord in the footer on every page.
+footer_content: "<a href='https://www.twitch.tv/crozwords/' target='_blank' rel='noopener'>Crozwords' Twitch</a> &middot; <a href='https://www.youtube.com/@crozwords?sub_confirmation=1' target='_blank' rel='noopener'>Crozwords' YouTube</a> &middot; <a href='https://discord.com/invite/C88N88yfCP' target='_blank' rel='noopener'>Discord</a>"
+
+# Files that are not site content.
+exclude:
+  - README.md
+  - Dockerfile
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - tools/
+  - vendor/
