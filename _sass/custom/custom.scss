@@ -12,6 +12,13 @@
   margin-left: 0.6rem;
 }
 
+// Let the logo fill more of the header: trim the title padding (default $sp-3)
+// so the contained logo image scales up.
+.site-title {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+
 // Responsive logo: the wide mark (set via site.logo) is used by default; fall
 // back to the square "R" when the layout is space-constrained (below Just the
 // Docs' fixed-sidebar breakpoint).
