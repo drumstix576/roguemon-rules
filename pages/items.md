@@ -1,8 +1,9 @@
 ---
 title: "Items"
 layout: default
-parent: "RogueMon Rules"
-nav_order: 3
+parent: "Game Progression"
+grand_parent: "RogueMon Rules"
+nav_order: 6
 permalink: /items/
 ---
 

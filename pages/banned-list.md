@@ -2,7 +2,7 @@
 title: "Banned List"
 layout: default
 parent: "RogueMon Rules"
-nav_order: 6
+nav_order: 5
 permalink: /banned-list/
 ---
 

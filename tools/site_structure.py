@@ -44,20 +44,21 @@ PAGES = [
      "nav_order": 5, "sections": ["Forced Route"]},
 
     {"title": "Items", "slug": "items",
-     "parent": "RogueMon Rules", "nav_order": 3,
+     "parent": "Game Progression", "grand_parent": "RogueMon Rules",
+     "nav_order": 6,
      "sections": ["General Item Rules", "When You Do Pick Up an Item",
                   "Healing Items", "Medicine Item", "Consumables", "TMs",
                   "Other Items"]},
 
     {"title": "Prizes", "slug": "prizes",
-     "parent": "RogueMon Rules", "nav_order": 4,
+     "parent": "RogueMon Rules", "nav_order": 3,
      "sections": ["Prize Rolls"]},
 
     {"title": "Curses", "slug": "curses",
-     "parent": "RogueMon Rules", "nav_order": 5,
+     "parent": "RogueMon Rules", "nav_order": 4,
      "sections": ["Curses"]},
 
     {"title": "Banned List", "slug": "banned-list",
-     "parent": "RogueMon Rules", "nav_order": 6,
+     "parent": "RogueMon Rules", "nav_order": 5,
      "sections": ["Banned Move/Ability/Item and Combinations List"]},
 ]

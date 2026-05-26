@@ -2,7 +2,7 @@
 title: "Curses"
 layout: default
 parent: "RogueMon Rules"
-nav_order: 5
+nav_order: 4
 permalink: /curses/
 ---
 
