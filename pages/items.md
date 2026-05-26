@@ -15,7 +15,7 @@ permalink: /items/
 - Legal items are limited to visible, hidden, and NPC gift within your current segment.
 - ALL step items are banned and have been removed from the game.
 - No breaking and entering. You are not permitted to enter buildings not required by story / RogueMon prize to pick up items. You may also not steal items from people's residences (e.g. the Warden and the Copycat).
-- Some prizes may also allow you to buy things such as TMs that are not automatically handled by the Roguemon extension.
+- Some prizes may also allow you to buy things such as TMs that are not automatically handled by the RogueMon extension.
 
 ## When You Do Pick Up an Item
 

@@ -9,7 +9,7 @@ permalink: /
 
 ## What is RogueMon?
 
-RogueMon is a single-pokemon randomized challenge. The goal is to win by locking every pokemon type and finishing a run without fainting. On your journey, you’ll receive prizes to help you on your way, and curses will hinder your path. Every run presents a unique set of challenges and solutions. All resources to get set up available in the Roguemon discord, so come join us today!
+RogueMon is a single-Pokémon randomized challenge based on Pokémon FireRed. Your goal: lock a Pokémon type and finish your run without fainting. Along the way, prizes will boost your progress and curses will hinder your path. Every run is a fresh puzzle with its own challenges and solutions. Everything you need to get started is in the RogueMon Discord, so come join us today!
 
 - [RogueMon Rules](/rules/)
 - [Play RogueMon](https://crozwords.itch.io/roguemon)
