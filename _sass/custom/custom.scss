@@ -1,0 +1,22 @@
+// Site-specific overrides, imported last by Just the Docs.
+
+// Lighten the search box so it stands out against the dark background
+// (idle and focused states, so focusing does not darken it).
+.search-input,
+.search-active .search-input {
+  background-color: lighten($body-background-color, 8%);
+}
+
+// Footer social icons: a little breathing room between them.
+.rgmn-social a + a {
+  margin-left: 0.6rem;
+}
+
+// Responsive logo: the wide mark (set via site.logo) is used by default; fall
+// back to the square "R" when the layout is space-constrained (below Just the
+// Docs' fixed-sidebar breakpoint).
+@media (max-width: 66.5rem) {
+  .site-logo {
+    background-image: url("/RoguemonRBig.png");
+  }
+}

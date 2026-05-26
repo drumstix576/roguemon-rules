@@ -6,8 +6,9 @@ theme: just-the-docs
 # Firm requirement: dark by default.
 color_scheme: dark
 
-# Sidebar logo (the repo-root image).
-logo: "/RoguemonRBig.png"
+# Sidebar logo (top-left). Responsive fallback to the square R mark is in
+# _sass/custom/custom.scss; favicon (the R mark) is in _includes/head_custom.html.
+logo: "/RoguemonLogo.png"
 
 # Set per environment at build time, e.g.:
 #   --baseurl "" (root)   or via JEKYLL prod config.
@@ -24,8 +25,8 @@ aux_links:
   "RogueMon Leaderboard": "https://www.roguemon.gg/"
 aux_links_new_tab: true
 
-# Featured links: Twitch / YouTube / Discord in the footer on every page.
-footer_content: "<a href='https://www.twitch.tv/crozwords/' target='_blank' rel='noopener'>Crozwords' Twitch</a> &middot; <a href='https://www.youtube.com/@crozwords?sub_confirmation=1' target='_blank' rel='noopener'>Crozwords' YouTube</a> &middot; <a href='https://discord.com/invite/C88N88yfCP' target='_blank' rel='noopener'>Discord</a>"
+# Featured links: Twitch / YouTube / Discord render as icons in the footer,
+# via _includes/footer_custom.html.
 
 # Files that are not site content.
 exclude:

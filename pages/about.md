@@ -9,9 +9,7 @@ permalink: /about/
 
 ## What is RogueMon?
 
-**RogueMon makes FRLG into a full Randomized Pokemon Roguelike**
-
-- It is a single pokemon randomized challenge. The goal is to win by locking every pokemon type and finishing a run without fainting. on your journey, you'll receive prizes to help you on your way. Curses will hinder your path. All resources to get set up available in the discord.
+RogueMon is a single-pokemon randomized challenge. The goal is to win by locking every pokemon type and finishing a run without fainting. On your journey, you’ll receive prizes to help you on your way, and curses will hinder your path. Every run presents a unique set of challenges and solutions. All resources to get set up available in the Roguemon discord, so come join us today!
 
 ## Game Elements
 

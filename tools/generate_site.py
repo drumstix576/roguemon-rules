@@ -30,9 +30,6 @@ FEATURED_LINKS = [
     ("RogueMon Rules", "/rules/"),
     ("Play RogueMon", "https://crozwords.itch.io/roguemon"),
     ("RogueMon Leaderboard", "https://www.roguemon.gg/"),
-    ("Crozwords' Twitch", "https://www.twitch.tv/crozwords/"),
-    ("Crozwords' YouTube", "https://www.youtube.com/@crozwords?sub_confirmation=1"),
-    ("Discord", "https://discord.com/invite/C88N88yfCP"),
 ]
 
 
