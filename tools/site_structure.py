@@ -16,11 +16,11 @@ PAGES = [
      "has_children": True, "sections": []},
 
     {"title": "Ascension Levels", "slug": "ascension-levels",
-     "parent": "RogueMon Rules", "nav_order": 1,
+     "parent": "RogueMon Rules", "nav_order": 2,
      "sections": ["Ascension Difficulty Increase", "Bag Space Cap", "Trainers"]},
 
     {"title": "Game Progression", "slug": "game-progression",
-     "parent": "RogueMon Rules", "nav_order": 2, "has_children": True,
+     "parent": "RogueMon Rules", "nav_order": 1, "has_children": True,
      "sections": []},
 
     {"title": "Overview", "slug": "overview",

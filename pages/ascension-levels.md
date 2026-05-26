@@ -2,7 +2,7 @@
 title: "Ascension Levels"
 layout: default
 parent: "RogueMon Rules"
-nav_order: 1
+nav_order: 2
 permalink: /ascension-levels/
 ---
 
