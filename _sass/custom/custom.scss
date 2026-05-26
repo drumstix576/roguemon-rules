@@ -19,6 +19,23 @@
   padding-bottom: 0.25rem;
 }
 
+.site-nav {
+  padding-top: 1rem;
+}
+
+// Keep the "RogueMon Rules" section expanded in the sidebar by default, so its
+// children (Items, Prizes, Curses, ...) are reachable in one click. Targets the
+// nav item whose link is /rules/ (the $= match stays correct if a baseurl is set).
+.site-nav .nav-list-item:has(> a[href$="/rules/"]) {
+  > .nav-list {
+    display: block;
+  }
+
+  > .nav-list-expander svg {
+    transform: rotate(90deg);
+  }
+}
+
 // Responsive logo: the wide mark (set via site.logo) is used by default; fall
 // back to the square "R" when the layout is space-constrained (below Just the
 // Docs' fixed-sidebar breakpoint).
