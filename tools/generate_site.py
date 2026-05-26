@@ -27,8 +27,8 @@ SRC_IMAGES = ROOT / "images"
 
 # Featured links for the home-page list (labels as provided by the user).
 FEATURED_LINKS = [
-    ("RogueMon Rules", "/rules/"),
     ("Play RogueMon", "https://crozwords.itch.io/roguemon"),
+    ("RogueMon Rules", "/rules/"),
     ("RogueMon Leaderboard", "https://www.roguemon.gg/"),
 ]
 
