@@ -27,6 +27,7 @@ permalink: /prizes/
 | <img src="/images/clairvoyance.png" width="25" height="25"> | **Clairvoyance** (A2/A3 only) - learn all future curses AND swap the location of two. |
 | <img src="/images/starter-pack.png" width="25" height="25"> | **Starter Pack** - Learn a non-stab lower power move. |
 | <img src="/images/notetaker.png" width="25" height="25"> | **Notetaker** - tracker notes (stats and known ability) transfer to evolutions |
+| <img src="/images/popupshop.png" width="25" height="25"> | Open the "Buy Phase" 3 times this run to exchange HP or Status Heals. |
 
 ---
 
@@ -51,8 +52,7 @@ permalink: /prizes/
 | <img src="/images/hp50capsule.png" width="25" height="25"> | **HP Cap +50 + Ability Capsule** - Change your pokemon’s ability to its other slot. You see the other ability before choosing. |
 | <img src="/images/warding-charm.png" width="25" height="25"> | **Warding Charm** (A2/A3 only) - Remove the effect of one curse in the future. (must be done beginning of segment) |
 | <img src="/images/ppuppotion.png" width="25" height="25"> | PP Up + Potion |
-| <img src="/images/2vitpot.png" width="25" height="25"> | Any Vitamin x2 + Potion |
-| <img src="/images/2potvit.png" width="25" height="25"> | Any Vitamin + Potion x2 |
+| <img src="/images/machoberryj.png" width="25" height="25"> | Choose an EV training Item to use until Misty. Equip a Berry Juice. |
 | <img src="/images/ppupether.png" width="25" height="25"> | PP Up + Ether |
 | <img src="/images/choose-2.png" width="25" height="25"> | **Choose 2** - Choose 2 prizes from the Misty's prize roll. |
 | <img src="/images/clairvoyance.png" width="25" height="25"> | **Potion + Clairvoyance** (A2/A3 only) - learn all future curses AND swap the location of two. |
@@ -71,6 +71,7 @@ permalink: /prizes/
 | <img src="/images/Rare%20Candy.png" width="25" height="25"> | Rare Candy |
 | <img src="/images/healing-pocket.png" width="25" height="25"> | +25 HP Cap |
 | <img src="/images/rerollchip.png" width="25" height="25"> | **Reroll Chip** - Use to reroll for 3 new prizes when offered. (1 time) |
+| <img src="/images/fullhealether.png" width="25" height="25"> | Full Heal + Ether |
 
 ---
 
@@ -82,7 +83,7 @@ permalink: /prizes/
 | <img src="/images/allfourstatus.png" width="25" height="25"> | Full Heal + Any Status Heal |
 | <img src="/images/threepotionandchoice.png" width="25" height="25"> | Potion x3 + Any Status Heal |
 | <img src="/images/superandchoice.png" width="25" height="25"> | Super Potion + Any Status Heal x2 |
-| <img src="/images/grounditem.png" width="25" height="25"> | **Temporary Held Item** - Keep and Hold an item from bag for 2 gym badges. It's cleansed after Erika. |
+| <img src="/images/grounditem.png" width="25" height="25"> | **Temporary Held Item** - Keep and Hold an item from bag for 2 gym badges. It's cleansed after Erika. Gain a reroll chip. |
 | <img src="/images/healing-pocket.png" width="25" height="25"> | HP Cap +100 |
 | <img src="/images/trifecta.png" width="25" height="25"> | Status Cap +1 + Any Status Heal  + Potion |
 | <img src="/images/superstatusether.png" width="25" height="25"> | Super Potion + Any Status Heal + Ether |
@@ -98,8 +99,7 @@ permalink: /prizes/
 | <img src="/images/luck.png" width="25" height="25"> | **Luck Incense** - Hold an HP heal that exceeds your Cap until you can add it |
 | <img src="/images/potionandreroll.png" width="25" height="25"> | **Potion + Reroll Chip** - Use to reroll for 3 new prizes when offered (1 time). |
 | <img src="/images/ppupmaxether.png" width="25" height="25"> | PP Up + Max Ether |
-| <img src="/images/2vitsuper.png" width="25" height="25"> | Any Vitamin x2 + Super Potion |
-| <img src="/images/3vit.png" width="25" height="25"> | Any Vitamin x3 |
+| <img src="/images/machositrus.png" width="25" height="25"> | Choose an EV training Item to use until Surge. Equip a Sitrus Berry. |
 | <img src="/images/clairvoyance.png" width="25" height="25"> | **Potion + Clairvoyance** (A2/A3 only) - learn all future curses AND swap the location of two. |
 | <img src="/images/ancestral-gift.png" width="25" height="25"> | **Ancestral Gift** - choose and unlock a type-boosting item matching one of your moves |
 | <img src="/images/remodeler.png" width="25" height="25"> | **Remodeler** - For the rest of the run, when you find a TM, you may teach it over a move you know of the same type. |
@@ -129,7 +129,7 @@ permalink: /prizes/
 | <img src="/images/2superreroll.png" width="25" height="25"> | **Super Potion x2 + Reroll Chip** - Use to reroll for 3 new prizes when offered. (1 time) |
 | <img src="/images/direguardether.png" width="25" height="25"> | Guard Spec. + Dire Hit + Ether |
 | <img src="/images/hp50candy.png" width="25" height="25"> | HP Cap +50 & Rare Candy |
-| <img src="/images/3vit.png" width="25" height="25"> | Any Vitamin x3 |
+| <img src="/images/weakening-contract.png" width="25" height="25"> | **Weakening Contract** - Choose 1, 2, or 3 EV stat categories. Set them to 0. |
 | <img src="/images/coolerbag.png" width="25" height="25"> | **Cooler Bag** - Berry Juice, Fresh Water, Soda Pop, Lemonade, Moomoo Milk don't count against HP Cap; Berry Juices don't need to be equipped immediately |
 | <img src="/images/ancestral-gift.png" width="25" height="25"> | **Ancestral Gift** - choose and unlock a type-boosting item matching one of your moves |
 | <img src="/images/leftovers.png" width="25" height="25"> | **Regenerator** - regain 3% of your max HP after every fight |
@@ -205,7 +205,7 @@ permalink: /prizes/
 |:---:|---|
 | <img src="/images/full-restore.png" width="25" height="25"> | Full Restore |
 | <img src="/images/maxandfull.png" width="25" height="25"> | Max Potion + Full Heal |
-| <img src="/images/tmrelearnmush.png" width="25" height="25"> | Big Mushroom + 1 found/given TM OR visit the move tutor in Celadon (may use this mushroom plus any that were unlocked by Item prizes) |
+| <img src="/images/tmrelearnmush.png" width="25" height="25"> | Big Mushroom + 1 found/given TM OR talk to the move tutor (may use this mushroom plus any that were unlocked by Item prizes) |
 | <img src="/images/hp100hyper.png" width="25" height="25"> | HP Cap +100 + Hyper Potion |
 | <img src="/images/twoxitems.png" width="25" height="25"> | Any Battle Item x2 |
 | <img src="/images/revive.png" width="25" height="25"> | Revive/Max Revive (limit one revive item per run) Keep your HM friend with you; send it out and revive if you faint |
@@ -213,4 +213,6 @@ permalink: /prizes/
 | <img src="/images/exp-charm.png" width="25" height="25"> | Fight Route 12/13 or Route 14/15 (treat as a single segment) |
 | <img src="/images/ancestral-gift.png" width="25" height="25"> | **Moomoo Milk & Ancestral Gift** - choose and unlock a type-boosting item matching one of your moves |
 | <img src="/images/tera-orb.png" width="25" height="25"> | **Tera Orb** - Choose a type matching a move; 5 times, you may change to that type |
+| <img src="/images/ancientteachings.png" width="25" height="25"> | **Ancient Teachings** - Gain a 10% chance to omniboost after each move use. |
+| <img src="/images/league-lootbox.png" width="25" height="25"> | **League Lootbox** - Gain 3x Rare Candies, A Nature Mint, An Ability Capsule, and a Fresh Water. |
 | <img src="/images/assault-vest.png" width="25" height="25"> | **Armor Plating** - Gain +1 stage of either DEF or SPD per turn, up to a max of 2 stages (Blaine/Giovanni/VR only) |

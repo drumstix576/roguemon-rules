@@ -19,6 +19,8 @@
 
 RogueMon is a single-Pokémon randomized challenge based on Pokémon FireRed. Your goal: lock a Pokémon type and finish your run without fainting. Along the way, prizes will boost your progress and curses will hinder your path. Every run is a fresh puzzle with its own challenges and solutions. Everything you need to get started is in the RogueMon Discord, so come join us today!
 
+> Disclaimer: Yes, there are a lot of rules, but most are hard-coded into the game. You should be able to learn as you play, and reference this page as needed.
+
 ---
 
 ## Game Elements
@@ -66,7 +68,7 @@ BST 371+ <br> Lt. Surge for -100 HP cap <br> Rock Tunnel for -50 HP Cap <br> Eri
 - You can choose your starter in the lab.
 - All lab fights will always be Lvl.6 vs Lvl.6
 - You will always start each run with 5 Potions. You receive 4 AUTOMATICALLY. Get the 5th from the Mart employee on Route 1.
-- The player may NEVER click an illegal move, even in the lab UNLESS it is your only damaging move, or all other moves are at 0 PP.
+- All moves are legal in the lab without restriction.
 - The player has the option to **Either** 1) Receive 5 random pokeballs from Oak on Route 1 **OR** 2) Take 5 unique level 8 adopted pivots in Pallet Town. (They are tabled from Route 1,2,22 and VF.)
 
 ---
@@ -263,9 +265,9 @@ N/A | N/A | All Rival Fights must be completed as part of the previous segment o
 ---
 
 > Revive note:  Revives are treated as being in the other items category. You may only use one if you unlock from a prize roll.
-If you obtain a legal Revive, this is how to use it upon fainting: send your HM friend in, use the revive, then use moves with the HM friend until it faints.
+If you obtain a legal Revive, you use it by selecting your it in your bag after your mon has fainted, and your HM Karp has been swapped into battle.
 As such, your HM friend should always be with you if you have one.
-If a trainer swaps your HM friend in, you may attack with moves until it faints, but this will forfeit your ability to use a revive until you can use a Pokemon Center. You cannot benefit from your HM friend's item, or pickup if it has it. Other impactful abilities are fine.
+If your HM Karp is fainted, you will have forfeited your ability to use a Revive for that Segment. 
 You are limited to ONE HM friend, and owning ONE revive item per run.
 
 ---
@@ -355,7 +357,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept.
 |Live Audience| When you are hit by a damaging move, if you weren't already affected by this and it didn't just end, you are afflicted by Encore for 2-3 turns. |
 |Moody| at the end of each turn, your pokemon gets +1 in a random stat and -1 in a different random stat. |
 |TikTok| Every fight one of your moves becomes Metronome. You don't know which one. **(self destroying moves i.e. explosion etc. will leave the user with 1HP)** |
-|Curse of Decay| Whenever your pokemon uses a damaging move, it loses 1 EV in the corresponding attacking stat. |
+|Curse of Decay| Whenever your pokemon uses a damaging move, it permanently loses 1 EV in the corresponding attacking stat. (You will however continue to gain EVs until full again). |
 |Poltergeist| If this segment is not full cleared, then for the rest of the run, whenever you pick up a type-boosting item (BlackGlasses, Magnet, etc.), you will get a unique negative effect depending on the item. |
 |Debilitation| Your Attack and Sp.Atk IVs are set to 0 for the duration of the segment. |
 |Time Warp| Lose 25% of your experience; gain back an equal amount at the end of the segment. This can cause you to miss level-up moves. |
@@ -394,6 +396,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept.
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/clairvoyance.png" width="25" height="25"> | **Clairvoyance** (A2/A3 only) - learn all future curses AND swap the location of two. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/starter-pack.png" width="25" height="25"> | **Starter Pack** - Learn a non-stab lower power move. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/notetaker.png" width="25" height="25"> | **Notetaker** - tracker notes (stats and known ability) transfer to evolutions |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/popupshop.png" width="25" height="25"> | Open the "Buy Phase" 3 times this run to exchange HP or Status Heals. |
 
 ---
 
@@ -418,8 +421,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept.
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hp50capsule.png" width="25" height="25"> | **HP Cap +50 + Ability Capsule** - Change your pokemon’s ability to its other slot. You see the other ability before choosing. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/warding-charm.png" width="25" height="25"> | **Warding Charm** (A2/A3 only) - Remove the effect of one curse in the future. (must be done beginning of segment) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ppuppotion.png" width="25" height="25"> | PP Up + Potion |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/2vitpot.png" width="25" height="25"> | Any Vitamin x2 + Potion |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/2potvit.png" width="25" height="25"> | Any Vitamin + Potion x2 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/machoberryj.png" width="25" height="25"> | Choose an EV training Item to use until Misty. Equip a Berry Juice. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ppupether.png" width="25" height="25"> | PP Up + Ether |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/choose-2.png" width="25" height="25"> | **Choose 2** - Choose 2 prizes from the Misty's prize roll. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/clairvoyance.png" width="25" height="25"> | **Potion + Clairvoyance** (A2/A3 only) - learn all future curses AND swap the location of two. |
@@ -438,6 +440,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept.
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/Rare Candy.png" width="25" height="25"> | Rare Candy |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | +25 HP Cap |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/rerollchip.png" width="25" height="25"> | **Reroll Chip** - Use to reroll for 3 new prizes when offered. (1 time) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/fullhealether.png" width="25" height="25"> | Full Heal + Ether |
 
 ---
 
@@ -449,7 +452,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept.
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/allfourstatus.png" width="25" height="25"> | Full Heal + Any Status Heal |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/threepotionandchoice.png" width="25" height="25"> | Potion x3 + Any Status Heal |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/superandchoice.png" width="25" height="25"> | Super Potion + Any Status Heal x2 |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/grounditem.png" width="25" height="25"> | **Temporary Held Item** - Keep and Hold an item from bag for 2 gym badges. It's cleansed after Erika. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/grounditem.png" width="25" height="25"> | **Temporary Held Item** - Keep and Hold an item from bag for 2 gym badges. It's cleansed after Erika. Gain a reroll chip. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | HP Cap +100 |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/trifecta.png" width="25" height="25"> | Status Cap +1 + Any Status Heal  + Potion |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/superstatusether.png" width="25" height="25"> | Super Potion + Any Status Heal + Ether |
@@ -465,8 +468,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept.
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/luck.png" width="25" height="25"> | **Luck Incense** - Hold an HP heal that exceeds your Cap until you can add it |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potionandreroll.png" width="25" height="25"> | **Potion + Reroll Chip** - Use to reroll for 3 new prizes when offered (1 time). |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ppupmaxether.png" width="25" height="25"> | PP Up + Max Ether |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/2vitsuper.png" width="25" height="25"> | Any Vitamin x2 + Super Potion |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/3vit.png" width="25" height="25"> | Any Vitamin x3 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/machositrus.png" width="25" height="25"> | Choose an EV training Item to use until Surge. Equip a Sitrus Berry. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/clairvoyance.png" width="25" height="25"> | **Potion + Clairvoyance** (A2/A3 only) - learn all future curses AND swap the location of two. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ancestral-gift.png" width="25" height="25"> | **Ancestral Gift** - choose and unlock a type-boosting item matching one of your moves |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/remodeler.png" width="25" height="25"> | **Remodeler** - For the rest of the run, when you find a TM, you may teach it over a move you know of the same type. |
@@ -496,7 +498,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept.
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/2superreroll.png" width="25" height="25"> | **Super Potion x2 + Reroll Chip** - Use to reroll for 3 new prizes when offered. (1 time) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/direguardether.png" width="25" height="25"> | Guard Spec. + Dire Hit + Ether |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hp50candy.png" width="25" height="25"> | HP Cap +50 & Rare Candy |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/3vit.png" width="25" height="25"> | Any Vitamin x3 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/weakening-contract.png" width="25" height="25"> | **Weakening Contract** - Choose 1, 2, or 3 EV stat categories. Set them to 0. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/coolerbag.png" width="25" height="25"> | **Cooler Bag** - Berry Juice, Fresh Water, Soda Pop, Lemonade, Moomoo Milk don't count against HP Cap; Berry Juices don't need to be equipped immediately |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ancestral-gift.png" width="25" height="25"> | **Ancestral Gift** - choose and unlock a type-boosting item matching one of your moves |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/leftovers.png" width="25" height="25"> | **Regenerator** - regain 3% of your max HP after every fight |
@@ -572,7 +574,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept.
 |:---:|---|
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/full-restore.png" width="25" height="25"> | Full Restore |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/maxandfull.png" width="25" height="25"> | Max Potion + Full Heal |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tmrelearnmush.png" width="25" height="25"> | Big Mushroom + 1 found/given TM OR visit the move tutor in Celadon (may use this mushroom plus any that were unlocked by Item prizes) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tmrelearnmush.png" width="25" height="25"> | Big Mushroom + 1 found/given TM OR talk to the move tutor (may use this mushroom plus any that were unlocked by Item prizes) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hp100hyper.png" width="25" height="25"> | HP Cap +100 + Hyper Potion |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/twoxitems.png" width="25" height="25"> | Any Battle Item x2 |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/revive.png" width="25" height="25"> | Revive/Max Revive (limit one revive item per run) Keep your HM friend with you; send it out and revive if you faint |
@@ -580,6 +582,8 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept.
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/exp-charm.png" width="25" height="25"> | Fight Route 12/13 or Route 14/15 (treat as a single segment) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ancestral-gift.png" width="25" height="25"> | **Moomoo Milk & Ancestral Gift** - choose and unlock a type-boosting item matching one of your moves |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tera-orb.png" width="25" height="25"> | **Tera Orb** - Choose a type matching a move; 5 times, you may change to that type |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ancientteachings.png" width="25" height="25"> | **Ancient Teachings** - Gain a 10% chance to omniboost after each move use. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/league-lootbox.png" width="25" height="25"> | **League Lootbox** - Gain 3x Rare Candies, A Nature Mint, An Ability Capsule, and a Fresh Water. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/assault-vest.png" width="25" height="25"> | **Armor Plating** - Gain +1 stage of either DEF or SPD per turn, up to a max of 2 stages (Blaine/Giovanni/VR only) |
 
 ---

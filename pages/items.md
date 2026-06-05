@@ -74,7 +74,7 @@ permalink: /items/
 ---
 
 > Revive note:  Revives are treated as being in the other items category. You may only use one if you unlock from a prize roll.
-If you obtain a legal Revive, this is how to use it upon fainting: send your HM friend in, use the revive, then use moves with the HM friend until it faints.
+If you obtain a legal Revive, you use it by selecting your it in your bag after your mon has fainted, and your HM Karp has been swapped into battle.
 As such, your HM friend should always be with you if you have one.
-If a trainer swaps your HM friend in, you may attack with moves until it faints, but this will forfeit your ability to use a revive until you can use a Pokemon Center. You cannot benefit from your HM friend's item, or pickup if it has it. Other impactful abilities are fine.
+If your HM Karp is fainted, you will have forfeited your ability to use a Revive for that Segment. 
 You are limited to ONE HM friend, and owning ONE revive item per run.

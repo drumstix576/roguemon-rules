@@ -11,6 +11,8 @@ permalink: /about/
 
 RogueMon is a single-Pokémon randomized challenge based on Pokémon FireRed. Your goal: lock a Pokémon type and finish your run without fainting. Along the way, prizes will boost your progress and curses will hinder your path. Every run is a fresh puzzle with its own challenges and solutions. Everything you need to get started is in the RogueMon Discord, so come join us today!
 
+> Disclaimer: Yes, there are a lot of rules, but most are hard-coded into the game. You should be able to learn as you play, and reference this page as needed.
+
 ## Game Elements
 
 **RogueMon offers difficult choices and a “linear” element.**
